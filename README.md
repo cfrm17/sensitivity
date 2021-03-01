@@ -116,4 +116,4 @@ Where DeltaP&L=(∂F/∂S+∂F/∂σ  ∂σ/∂S)dS and VegaP&L=∂F/〖∂σ〗
 
 
 You can find more details at
-https://finpricing.com/lib/IrCurveIntroduction.html
+https://finpricing.com/knowledge.html
