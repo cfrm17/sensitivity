@@ -118,6 +118,3 @@ Where DeltaP&L=(∂F/∂S+∂F/∂σ  ∂σ/∂S)dS and VegaP&L=∂F/〖∂σ〗
 References:
 
 https://finpricing.com/lib/EqConvertible.html
-
-https://bitbucket.org/cfrm17/sensitivity/downloads/sensitivity-13.pdf
-
